@@ -59,7 +59,13 @@ public class LoopsController
 		
 		System.out.println("Your remaining plants will be put into a group.");
 		
-		String[] plantsArray;
+		String plantsArray[] = new String[10];
+		
+		for (String : plantsArray)
+		{
+			
+		}
+		
 		
 		
 	}
